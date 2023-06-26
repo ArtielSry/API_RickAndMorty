@@ -8,3 +8,4 @@ Practicing Fetch API:round_pushpin: with the Rick and Morty API:
 
 The final result is the following: https://artielsry.github.io/fetch_api_data/
 
+![rick and morty](https://github.com/ArtielSry/fetch_api_data/assets/113340763/4352c33c-b611-4fd3-b359-4cddae9c235d)
