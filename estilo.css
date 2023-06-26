@@ -1,0 +1,74 @@
+ @import url('https://fonts.googleapis.com/css2?family=Ysabeau+Infant:wght@200&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Ysabeau Infant', sans-serif;
+}
+
+body {
+    background: url('https://rickandmortypod.com/storage/2018/11/cropped-RM_page-header_background1-3.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+strong {
+    font-style: italic;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px;
+    margin: 20px 0;
+    color: white;
+    font-size: 4em;
+}
+
+h3,
+p {
+    font-size: 20px;
+    padding: 5px;
+    font-weight: bolder;
+}
+
+img {
+    border-radius: 10px;
+    width: 250px;
+}
+
+#result {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 5%;
+}
+
+.list {
+    width: 300px;
+    border: 1px solid rgb(183, 183, 183);
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.page {
+    text-align: center;
+}
+
+select {
+    cursor: pointer;
+    border: none;
+    outline: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+option {
+    font-weight: bold;
+}
