@@ -1,4 +1,4 @@
-Practicing Fetch API:heavy_check_mark: with the Rick and Morty API:
+Practicing Fetch API:round_pushpin: with the Rick and Morty API:
 
 - Display data and images of characters from the series. :heavy_check_mark:
 
