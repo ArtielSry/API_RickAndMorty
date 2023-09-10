@@ -6,6 +6,6 @@ Practicing Fetch API:round_pushpin: with the Rick and Morty API:
 
 (CSS styling is totally secondary because the practice is focused on Javascript)
 
-The final result is the following: https://artielsry.github.io/fetch_api_data/
+The final result is the following:[ https://artielsry.github.io/fetch_api_data/](https://artielsry.github.io/API_RickAndMorty/)
 
 ![rick and morty](https://github.com/ArtielSry/fetch_api_data/assets/113340763/4352c33c-b611-4fd3-b359-4cddae9c235d)
